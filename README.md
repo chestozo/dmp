@@ -9,6 +9,11 @@ Now it is possible:
 
 ![](https://s3.amazonaws.com/f.cl.ly/items/3l0k1E2305132p103X1y/Screen%20Shot%202015-04-08%20at%2020.19.34.png).
 
+## Usage
+```sh
+./dmp file1 file2 [--by-words]
+```
+
 ## git integration
 Edit your .gitconfig like so:
 ```
