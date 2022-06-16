@@ -1,8 +1,9 @@
 # dmp
-Diff tool based on [google-diff-match-patch](http://code.google.com/p/google-diff-match-patch/).
+Diff tool based on [google-diff-match-patch](http://code.google.com/p/google-diff-match-patch/).  
+Also mentioned here on [StackOverflow](https://stackoverflow.com/a/29521455/449345).  
 You have to have node.js installed in order to `dmp` to work.
 
-The main motivation to write this tool was to see letter specific diff
+The main motivation to write this tool was to see letter specific diff  
 for unicode symbols (cyrillic letters in particular).
 
 Now it is possible:
